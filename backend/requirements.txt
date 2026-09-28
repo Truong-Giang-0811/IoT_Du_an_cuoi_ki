@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+paho-mqtt
+mysql-connector-python
+python-dotenv
